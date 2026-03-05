@@ -1,0 +1,24 @@
+=== CATÁLOGO DE TECNOLOGÍAS WEB ===
+ÚLTIMA REVISIÓN: 05/03/2026
+RESPONSABLE: Marc Masana 
+
+FRONTEND
+[ASIGNADO A PERSONA A]
+Tecnologia: React
+Descripción: Biblioteca de JavaScript para construir interfaces de usuario.
+Nivel: Basico
+Recurso: https://react.dev/
+
+BACKEND
+[ASIGNADO A PERSONA B]
+Tecnologia: Node.js
+Descripción: (Persona B: escribe una descripción breve)
+Nivel: (Persona B: Básico / Intermedio / Avanzado)
+Recurso: (Persona B: escribe una URL o nombre de recurso)
+
+BASE DE DATOS
+[ASIGNADO A PERSONA C]
+Tecnologia: MongoDB
+Descripción: (Persona C: escribe una descripción breve)
+Nivel: (Persona C: Básico / Intermedio / Avanzado)
+Recurso: (Persona C: escribe una URL o nombre de recurso)
