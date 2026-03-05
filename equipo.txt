@@ -6,6 +6,7 @@ VERSIÓN: 1.0
 Nombre: Marc Masana Via
 Tecnología asignada: React
 Estado personal: En Ejecucion
+ESTADO DEL PROYECTO: Activo
 
 === INTEGRANTE B ===
 Nombre: Nora Raghay
