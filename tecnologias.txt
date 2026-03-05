@@ -12,13 +12,13 @@ Recurso: https://react.dev/
 BACKEND
 [ASIGNADO A PERSONA B]
 Tecnologia: Node.js
-Descripción: (Persona B: escribe una descripción breve)
-Nivel: (Persona B: Básico / Intermedio / Avanzado)
-Recurso: (Persona B: escribe una URL o nombre de recurso)
+Descripción: Entorno de ejecución de JavaScript del lado del servidor basado en V8.
+Nivel: Basico
+Recurso: https://nodejs.org/
 
 BASE DE DATOS
 [ASIGNADO A PERSONA C]
 Tecnologia: MongoDB
-Descripción: (Persona C: escribe una descripción breve)
-Nivel: (Persona C: Básico / Intermedio / Avanzado)
-Recurso: (Persona C: escribe una URL o nombre de recurso)
+Descripción: Base de datos NoSQL orientada a documentos JSON.
+Nivel: Basico
+Recurso: https://www.mongodb.com/
