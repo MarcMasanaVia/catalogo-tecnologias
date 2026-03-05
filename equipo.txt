@@ -1,6 +1,6 @@
 === FICHA DEL EQUIPO ===
-ESTADO DEL PROYECTO: En planificación
-VERSIÓN: 1.0
+ESTADO DEL PROYECTO: En revision de contenido
+VERSIÓN: 0.2
 
 === INTEGRANTE A COORDINADOR/A ===
 Nombre: Marc Masana Via
