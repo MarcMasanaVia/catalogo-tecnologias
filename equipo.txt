@@ -3,9 +3,9 @@ ESTADO DEL PROYECTO: En planificación
 VERSIÓN: 1.0
 
 === INTEGRANTE A COORDINADOR/A ===
-Nombre: Marc (pon tus apellidos también)
+Nombre: Marc Masana Via
 Tecnología asignada: React
-Estado personal: En ejecucion
+Estado personal: En Ejecucion
 
 === INTEGRANTE B ===
 Nombre: Nora Raghay
