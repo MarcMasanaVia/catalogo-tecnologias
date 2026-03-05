@@ -5,7 +5,7 @@ VERSIÓN: 1.0
 === INTEGRANTE A COORDINADOR/A ===
 Nombre: Marc (pon tus apellidos también)
 Tecnología asignada: React
-Estado personal: En progreso
+Estado personal: En ejecucion
 
 === INTEGRANTE B ===
 Nombre: Nora Raghay
