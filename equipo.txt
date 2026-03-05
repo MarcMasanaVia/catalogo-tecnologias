@@ -5,8 +5,7 @@ VERSIÓN: 0.1
 === INTEGRANTE A COORDINADOR/A ===
 Nombre: (Escribe aquí tu nombre completo)
 Tecnología asignada: React
-Estado personal: Pendiente
-
+Estado personal: En progreso
 === INTEGRANTE B ===
 Nombre: (Persona B: escribe tu nombre completo)
 Tecnologia asignada: Node.js
